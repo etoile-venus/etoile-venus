@@ -77,7 +77,9 @@ During my bootcamp, I worked on some exciting projects that helped me put my kno
 
 I'm always open to new opportunities and collaborations! Feel free to reach out:
 
-* 📧 bijeljanindanica@gmail.com  
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/danicabijeljanin)
+- Email: [bijeljanindanica@gmail.com](mailto:bijeljanindanica@gmail.com)  
+- LinkedIn: [/in/danicabijeljanin](https://linkedin.com/in/danicabijeljanin)
+
+
 
 Looking forward to future projects and challenges! 😊
