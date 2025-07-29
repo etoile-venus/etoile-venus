@@ -1,7 +1,7 @@
 <h1><strong>Hi, I'm Danica Bijeljanin 👋</strong></h1>
 <h3>Junior Software QA | Automation Engineer</h3>
 
-Welcome to my little corner of GitHub! I'm a junior QA Engineer with a serious passion for finding and squashing bugs – while others run from them, I actively seek them out! 🐞
+Welcome to my little corner of GitHub! I'm a junior QA Engineer with a serious passion for finding and squashing bugs; while others run from them, I actively seek them out! 🐞
 
 I truly believe that curiosity, problem-solving, and a continuous drive for improvement are the keys to building high-quality software.
 
