@@ -53,33 +53,12 @@ Here's a glimpse into what I do and the tools I wield:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-## Projects I'm Proud Of ❤️
-
-During my bootcamp, I worked on some exciting projects that helped me put my knowledge into practice:
-* **SauceDemo UI Automation** [[GitHub]](https://github.com/etoile-venus/SaucedemoUIAutomation)
-    * Developed automated UI tests using **Selenium WebDriver** and **TestNG** with a **Page Object Model** structure. Utilized **TestNG Data Provider** and a custom **ExcelReader** for managing test data from `.xlsx` files. Implemented both positive and negative test scenarios across various user profiles with soft and hard assertions. Test setup and teardown were managed using TestNG annotations.
-
-* **Bookstore API Automation** [[GitHub]](https://github.com/etoile-venus/BookStoreApiAutomation)
-    * Automated **CRUD** and authorization API tests using **Rest-Assured** and **TestNG**, alongside the **GSON** library. Test data was generated using **JavaFaker** and custom factories into reusable JSON files. Covered positive and negative scenarios by effectively managing request and response data with **POJOs** and **JsonPath**. Tests were well-organized by endpoints, utilizing helper classes.
-
-* **SauceDemo Playwright Automation (WIP)** [[GitHub]](https://github.com/etoile-venus/Saucedemo-Playwright)
-    * Currently a **Work In Progress (WIP)** UI automation project for SauceDemo, leveraging **Playwright** for modern web application testing.
-
-* **Cypress Automation Exercises** [[GitHub]](https://github.com/etoile-venus/CypressPractice)
-    * A collection of Cypress automation exercises written in pure **JavaScript**, exploring fundamental UI testing concepts on various demo web applications.
-      
-* **Bookstore CLI Application** [[GitHub]](https://github.com/etoile-venus/BookstoreApp)
-    * Developed a pure **Java** application applying **OOP** principles, **CRUD** operations, and a **layered architecture** (CLI, Backend, Flat-file) for scalable design. Rigorously tested application functionality, including user login, role-based access, and all CRUD operations, to ensure data integrity and system reliability.
----
-  
 ## Let's Connect
 
 I'm always open to new opportunities and collaborations! Feel free to reach out:
-
 - Email: [bijeljanindanica@gmail.com](mailto:bijeljanindanica@gmail.com)  
 - LinkedIn: [/in/danicabijeljanin](https://linkedin.com/in/danicabijeljanin)
+  
+---
+## Projects I'm Proud Of ❤️
 
-
-
-Looking forward to future projects and challenges! 😊
