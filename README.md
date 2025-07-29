@@ -59,6 +59,7 @@ I'm always open to new opportunities and collaborations! Feel free to reach out:
 - Email: [bijeljanindanica@gmail.com](mailto:bijeljanindanica@gmail.com)  
 - LinkedIn: [/in/danicabijeljanin](https://linkedin.com/in/danicabijeljanin)
   
----
-## Projects I'm Proud Of ❤️
+<h1 align="center">
+Projects I'm Proud Of ❤️
+</h1>
 
