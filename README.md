@@ -7,6 +7,8 @@ I've recently completed an intensive IT Bootcamp, where I gained a solid foundat
 
 My mission? To ensure everything runs smoothly and to deliver the best possible user experience! ✨
 
+---
+
 ### **Skills**
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-28A745?style=for-the-badge)
 ![Automation Testing](https://img.shields.io/badge/Automation_Testing-007ACC?style=for-the-badge)
@@ -51,6 +53,7 @@ My mission? To ensure everything runs smoothly and to deliver the best possible 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
 <h1 align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdanicabijeljanin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danicabijeljanin)
