@@ -55,6 +55,6 @@ My mission? To ensure everything runs smoothly and to deliver the best possible 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdanicabijeljanin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danicabijeljanin)
   
-Projects I'm Proud Of ❤️
+↓ Projects I'm Proud Of ❤️ ↓
 </h1>
 
