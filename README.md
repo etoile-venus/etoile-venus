@@ -3,12 +3,9 @@
 
 Welcome to my little corner of GitHub! I'm a junior QA Engineer with a serious passion for finding and squashing bugs, while others run from them, I actively seek them out! 🐞
 
-I truly believe that curiosity, problem-solving, and a continuous drive for improvement are the keys to building high-quality software.
+I've recently completed an intensive IT Bootcamp, where I gained a solid foundation in both manual and automation testing.  I’m excited to roll up my sleeves and help make software reliable and user-friendly.
 
-## About Me 
-I've recently completed an intensive IT Bootcamp, where I gained a solid foundation in both manual and automation testing. I'm eager to dive into the world of software testing and contribute to the development of stable and reliable applications. My mission? To ensure everything runs smoothly and to deliver the best possible user experience! ✨
-
-Here's a glimpse into what I do and the tools I wield:
+My mission? To ensure everything runs smoothly and to deliver the best possible user experience! ✨
 
 ### **Skills**
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-28A745?style=for-the-badge)
@@ -53,13 +50,11 @@ Here's a glimpse into what I do and the tools I wield:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Let's Connect
-
-I'm always open to new opportunities and collaborations! Feel free to reach out:
-- Email: [bijeljanindanica@gmail.com](mailto:bijeljanindanica@gmail.com)  
-- LinkedIn: [/in/danicabijeljanin](https://linkedin.com/in/danicabijeljanin)
-  
+---
 <h1 align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdanicabijeljanin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danicabijeljanin)
+  
 Projects I'm Proud Of ❤️
 </h1>
 
