@@ -52,12 +52,5 @@ My mission? To ensure everything runs smoothly and to deliver the best possible 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-<h1 align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdanicabijeljanin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danicabijeljanin)
-  
-↓ Projects I'm Proud Of ❤️ ↓
-</h1>
 
